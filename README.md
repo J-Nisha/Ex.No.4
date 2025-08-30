@@ -1,6 +1,6 @@
 # Ex.No.4-Scenario-Based Report Development Utilizing Diverse Prompting Techniques
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE:  30/08/2025                                                                         
+### REGISTER NUMBER : 212223040133
 ### Aim: To design an AI-powered chatbot that assists customers in resolving issues related to product troubleshooting, order tracking, and general inquiries. The chatbot should handle various customer queries efficiently while maintaining a conversational and user-friendly tone. In this experiment, we will employ different prompt patterns to guide the development process of the chatbot, ranging from basic task-oriented prompts to more complex, persona-driven prompts. Case study 2 with Comparative Analysis Prompt, Universal Prompt, Structures Prompt Refinements and Prompt Size Limitations
 
 ### Explanation - Any one use case from Unit 5 and generate the report for that with the unit 2 Prompt type
@@ -35,9 +35,8 @@ Persona and Context Prompts:
 •	The system should convey reliability and ease of use, with minimal training required for operators.
 
 Result: The various types of Prompts are executed successfully with generated the report.
-
-
-
+## OUTPUT
+[PROMPT4.pdf](https://github.com/user-attachments/files/22057182/PROMPT4.pdf)
 
 # Result: Thus the Prompts were exected succcessfully.
 
